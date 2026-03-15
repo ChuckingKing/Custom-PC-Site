@@ -1,2 +1,2 @@
 
-http://custom-pc-example-site.com/
+Github pages website: http://custom-pc-example-site.com/
